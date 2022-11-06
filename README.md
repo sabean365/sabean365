@@ -70,7 +70,7 @@
 ![](https://github.com/sabean365/picturesOfMeOrNot/blob/main/GitHub/khardungLa.jpg)
 > I love heights, mountains, hiking, and ziplining. 
 ### You can reach me through my website:
-[sarahbeancodes](https://sarahbeancodes.com/ "sarahbeancodes")
+[sarahbeancodes](https://sarahbeancodes.com/contact/ "sarahbeancodes")
 <!---
 sabean365/sabean365 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
