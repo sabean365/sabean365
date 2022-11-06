@@ -48,7 +48,7 @@
 ![](https://github.com/sabean365/picturesOfMeOrNot/blob/main/GitHub/sepiatoned.jpg)
 >I create and manage resources in Azure, including budgets, diagrams, <br>
 > monitors, alerts, and automation, using Terraform and Azure CLI.
-### My favorite tools on my conputer are bash and VS Code
+### My favorite tools on my computer are bash and VS Code
 ![](https://github.com/sabean365/picturesOfMeOrNot/blob/main/GitHub/tools.jpg)
 > Though I don't get to use bash as much as I'd like.
 ### I’m interested in Edge Computing
