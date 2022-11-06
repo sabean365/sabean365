@@ -3,6 +3,7 @@
 ![](https://github.com/sabean365/picturesOfMeOrNot/blob/main/GitHub/mr.jpg)
 > Do I look like a geek?  Idk..
 ### I love programming and have used C#, C++, Java, JavaScript, and Python
+#### <i>I refuse to do another Hello World program. My code says, "Hello, Universe!"</i>
 ![](https://github.com/sabean365/picturesOfMeOrNot/blob/main/GitHub/galaxy.jpg)
 ```#Python code
     # Some very simple Python Code
@@ -42,7 +43,7 @@
 > Results
 > ![](https://github.com/sabean365/picturesOfMeOrNot/blob/main/GitHub/results.jpg)
 > 
-### <i>I refuse to do another Hello World program. I say, "Hello, Universe!"</i>
+
 ### Right now, I'm an SRE, and I love my job!
 ![](https://github.com/sabean365/picturesOfMeOrNot/blob/main/GitHub/sepiatoned.jpg)
 >I create and manage resources in Azure, including budgets, diagrams, <br>
