@@ -62,7 +62,7 @@
 > If only I had the time... or could stop time... or had Hermione's watch.
 ### Other than computer/software engineering, I love music. I play the piano.
 ![](https://github.com/sabean365/picturesOfMeOrNot/blob/main/GitHub/roland.jpg)
-> I also teach sometimes.
+> This is a picture of my new Roland FP-30X.
 ### My dream guy is gL. I hope we meet in another lifetime.
 ![](https://github.com/sabean365/picturesOfMeOrNot/blob/main/GitHub/gL.jpg)
 >I sketched this picture of him.
