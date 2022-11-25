@@ -68,7 +68,7 @@
 >I sketched this picture of him.
 ### The farthest I've been away from the US was my trip to India. I went to the Khardung La.
 ![](https://github.com/sabean365/picturesOfMeOrNot/blob/main/GitHub/khardungLa.jpg)
-> I love heights, mountains, hiking, and ziplining. 
+> That's me and Manju, my owl bobblehead traveling companion. :heartbeat:
 ### You can reach me through my website:
 [sarahbeancodes](https://sarahbeancodes.com/contact/ "sarahbeancodes")
 <!---
