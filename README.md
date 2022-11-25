@@ -46,8 +46,8 @@
 
 ### Right now, I'm an SRE, and I love my job!
 ![](https://github.com/sabean365/picturesOfMeOrNot/blob/main/GitHub/sepiatoned.jpg)
->I create and manage resources in Azure, including budgets, diagrams, <br>
-> monitors, alerts, and automation, using Terraform and Azure CLI.
+>I create and manage resources in Azure; the scope of my work also includes budgets, <br>
+> diagrams, monitors, alerts, and automation, using Terraform, Azure CLI, and other tools.
 ### My favorite tools on my computer are bash and VS Code
 ![](https://github.com/sabean365/picturesOfMeOrNot/blob/main/GitHub/tools.jpg)
 > Though I don't get to use bash as much as I'd like.
