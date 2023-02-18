@@ -1,7 +1,7 @@
 ## About Sarah Bean
-### I like solving computer problems, so some call me a geek.
+### I like solving computer problems, so some call me a geek or a nerd.
 ![](https://github.com/sabean365/picturesOfMeOrNot/blob/main/GitHub/mr.jpg)
-> Do I look like a geek?  Idk..
+> Do I look like a nerd?  Idk..
 ### I love programming and have used C#, C++, Java, JavaScript, and Python
 #### <i>I refuse to do another Hello World program. My code says, "Hello, Universe!"</i>
 ![](https://github.com/sabean365/picturesOfMeOrNot/blob/main/GitHub/galaxy.jpg)
