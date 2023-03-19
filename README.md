@@ -1,5 +1,5 @@
 ## About Sarah Bean
-### I like solving computer problems, so some call me a geek or a nerd, but I don't tke that personally.
+### I like solving computer problems, so some call me a geek or a nerd, but I don't take that personally.
 ![](https://github.com/sabean365/picturesOfMeOrNot/blob/main/GitHub/mr.jpg)
 > Do I look like a nerd?  Idk..
 ### I love programming and have used C#, C++, Java, JavaScript, and Python
