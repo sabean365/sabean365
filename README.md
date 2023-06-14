@@ -1,5 +1,5 @@
 ## About Sarah Bean
-### I like solving computer problems, so some call me a geek or a nerd, but I don't take that personally.
+### I like solving complex problems, so some people call me a geek or a nerd, but I don't take that personally.
 ![](https://github.com/sabean365/picturesOfMeOrNot/blob/main/GitHub/mr.jpg)
 > Do I look like a nerd?  Idk..
 ### I love programming and have used C#, C++, Java, JavaScript, and Python
@@ -63,9 +63,9 @@
 ### Other than computer/software engineering, I love music. I play the piano.
 ![](https://github.com/sabean365/picturesOfMeOrNot/blob/main/GitHub/roland.jpg)
 > This is a picture of my new Roland FP-30X.
-### My dream guy is gL. I hope I find him in another lifetime, and we get on brilliantly.
+### I am a she/her, but I try to love everyone no matter what. My dream guy is gL. I hope I find him in another lifetime, and we get on brilliantly.
 ![](https://github.com/sabean365/picturesOfMeOrNot/blob/main/GitHub/gL.jpg)
->I sketched this picture of him.
+>I sketched this picture of him.  He's perfection.
 ### The farthest I've been away from the US was my trip to India. I went to the Khardung La.
 ![](https://github.com/sabean365/picturesOfMeOrNot/blob/main/GitHub/khardungLa.jpg)
 > That's me and Manju, my owl bobblehead traveling companion. :heartbeat:
