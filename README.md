@@ -63,7 +63,7 @@
 ### Other than computer/software engineering, I love music. I play the piano.
 ![](https://github.com/sabean365/picturesOfMeOrNot/blob/main/GitHub/roland.jpg)
 > This is a picture of my new Roland FP-30X.
-### I ientify as she/her, but I try to love everyone no matter what. My dream guy is gL. I hope I find him in another lifetime, and we get on brilliantly.
+### I identify as she/her, but I try to love everyone no matter what. My dream guy is gL. I hope I find him in another lifetime, and we get on brilliantly.
 ![](https://github.com/sabean365/picturesOfMeOrNot/blob/main/GitHub/gL.jpg)
 >I sketched this picture of him.  He's perfection.
 ### The farthest I've been away from the US was my trip to India. I went to the Khardung La.
