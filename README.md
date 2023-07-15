@@ -1,5 +1,9 @@
 ## About Sarah Bean  
 ### she/her
+
+### My all-time favorite quote about computer programming:
+### “Don’t comment bad code — rewrite it.” ~ Brian W. Kernighan and P. J. Plaugher.
+> If only the developers I have worked with believed in this.
 ### I like solving complex problems, so some people call me a geek or a nerd, but I don't take that personally.
 ![](https://github.com/sabean365/picturesOfMeOrNot/blob/main/GitHub/mr.jpg)
 > Do I look like a nerd?  Idk..
