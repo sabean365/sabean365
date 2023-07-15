@@ -3,7 +3,7 @@
 ### I like solving complex problems, so some people call me a geek or a nerd, but I don't take that personally.
 ![](https://github.com/sabean365/picturesOfMeOrNot/blob/main/GitHub/mr.jpg)
 > Do I look like a nerd?  Idk..
-### I love programming and have used C#, C++, Java, JavaScript, and Python
+### I love programming and have used C#, C++, Java, JavaScript, Python and (cough) VB
 #### <i>I refuse to do another Hello World program. My code says, "Hello, Universe!"</i>
 ![](https://github.com/sabean365/picturesOfMeOrNot/blob/main/GitHub/galaxy.jpg)
 ```#Python code
@@ -48,7 +48,7 @@
 ### Right now, I'm an SRE, and I love my job!
 ![](https://github.com/sabean365/picturesOfMeOrNot/blob/main/GitHub/sepiatoned.jpg)
 >I create and manage resources in Azure; the scope of my work also includes budgets, <br>
-> diagrams, monitors, alerts, and automation, using Terraform, Azure CLI, and other tools.
+>diagrams, monitors, alerts, and automation, using Terraform, Azure CLI, and other tools.
 ### My favorite tools on my computer are bash and VS Code
 ![](https://github.com/sabean365/picturesOfMeOrNot/blob/main/GitHub/tools.jpg)
 > Though I don't get to use bash as much as I'd like.
@@ -65,7 +65,8 @@
 ### Other than computer/software engineering, I love music. I play the piano.
 ![](https://github.com/sabean365/picturesOfMeOrNot/blob/main/GitHub/roland.jpg)
 > This is a picture of my new Roland FP-30X.
-### I try to love everyone no matter what, but there's a special place in my heart for gL. I hope I find him in another lifetime, and we get on brilliantly.
+### I try to love everyone no matter what, but there's a special place in my heart for gL. <br>
+### I hope I find him in another lifetime, and we get on brilliantly.
 ![](https://github.com/sabean365/picturesOfMeOrNot/blob/main/GitHub/gL.jpg)
 >I sketched this picture of him.  He's perfection.
 ### The farthest I've been away from the US was my trip to India. I went to the Khardung La.
