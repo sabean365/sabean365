@@ -54,8 +54,8 @@
 ### I’m interested in Edge Computing
 ![](https://github.com/sabean365/picturesOfMeOrNot/blob/main/GitHub/edge.jpg)
 > I believe it will save lives.
-### I’m currently learning Terragrunt
-![](https://github.com/sabean365/picturesOfMeOrNot/blob/main/GitHub/terragrunt.jpg)
+### I’m currently learning Go
+![](https://github.com/sabean365/picturesOfMeOrNot/blob/main/GitHub/go.jpg)
 > By "DRY" the blob means "Don't Repeat Yourself"
 ### I’m looking to collaborate on... ANYTHING
 ![Alt Text](https://tenor.com/view/shoulder-shrug-animation-girl-idk-i-dont-know-gif-17092814.gif)
