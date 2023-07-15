@@ -57,6 +57,7 @@
 ### I’m currently learning Go
 ![](https://github.com/sabean365/picturesOfMeOrNot/blob/main/go.jpg)
 > It's used by DevOps, so I think I should know it.
+> Wish they had picked a better mascot logo - blue gopher? smh...
 ### I’m looking to collaborate on... ANYTHING
 ![Alt Text](https://tenor.com/view/shoulder-shrug-animation-girl-idk-i-dont-know-gif-17092814.gif)
 > If only I had the time... or could stop time... or had Hermione's watch.
