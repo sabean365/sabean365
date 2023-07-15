@@ -1,4 +1,5 @@
-## About Sarah Bean
+## About Sarah Bean  
+### she/her
 ### I like solving complex problems, so some people call me a geek or a nerd, but I don't take that personally.
 ![](https://github.com/sabean365/picturesOfMeOrNot/blob/main/GitHub/mr.jpg)
 > Do I look like a nerd?  Idk..
