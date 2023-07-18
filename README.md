@@ -72,7 +72,7 @@
 ### I try to love everyone no matter what, but there's a special place in my heart for gL. <br>
 ### I hope I find him in another lifetime, and we get on brilliantly.
 ![](https://github.com/sabean365/picturesOfMeOrNot/blob/main/GitHub/gL.jpg)
->I sketched this picture of him.  He's perfection.
+>I sketched this picture of him.  He's perfection... <i>and</i> Northern Irish!
 ### The farthest I've been away from the US was my trip to India. I went to the Khardung La.
 ![](https://github.com/sabean365/picturesOfMeOrNot/blob/main/GitHub/khardungLa.jpg)
 > That's me and Manju, my owl bobblehead traveling companion. :heartbeat:
