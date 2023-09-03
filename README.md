@@ -10,7 +10,8 @@
 > Do I look like a nerd?  Idk.. I hide it well.
 ### I love programming and have used (in alpha order): <br>
 #### C++, C#, Java, JavaScript, Python and (cough) VB
-##### <i>I refuse to do another Hello World program. My code says, "Hello, Universe!"</i>
+##### <i>I refuse to do another Hello World program. <br>
+##### My code says, "Hello, Universe!"</i>
 ![](https://github.com/sabean365/picturesOfMeOrNot/blob/main/GitHub/galaxy.jpg)
 ```#Python code
     # Some very simple Python Code
