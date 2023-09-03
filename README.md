@@ -4,14 +4,13 @@
 ### My all-time favorite quote about computer programming:
 #### *“Don’t comment bad code — rewrite it.” ~ Brian W. Kernighan and P. J. Plaugher.*
 > If only the developers I have worked with believed in this.
-### I like solving complex problems, so some people call me a geek <br>
-#### or a nerd, but I don't take that personally.
+### I like solving complex problems, so some people call me a nerd <br>
+#### but I don't take that stuff personally.
 ![](https://github.com/sabean365/picturesOfMeOrNot/blob/main/GitHub/mr.jpg)
-> Do I look like a nerd?  Idk..
-### I love programming and have used (in alphabetical order): <br>
-#### C#, C++, Java, JavaScript, Python and (cough) VB
-#### <i>I refuse to do another Hello World program. <br>
-#### My code says, "Hello, Universe!"</i>
+> Do I look like a nerd?  Idk.. I hide it well.
+### I love programming and have used (in alpha order): <br>
+#### C++, C#, Java, JavaScript, Python and (cough) VB
+##### <i>I refuse to do another Hello World program. My code says, "Hello, Universe!"</i>
 ![](https://github.com/sabean365/picturesOfMeOrNot/blob/main/GitHub/galaxy.jpg)
 ```#Python code
     # Some very simple Python Code
@@ -55,11 +54,12 @@
 ### Right now, I'm an SRE, and I love my job!
 ![](https://github.com/sabean365/picturesOfMeOrNot/blob/main/GitHub/sepiatoned.jpg)
 >I create and manage resources in Azure; the scope of my work also includes budgets, <br>
->diagrams, monitors, alerts, automation, and *collaboration for staying up-to-date <br>
+>diagrams, monitors, alerts, automation, and *continual learning to stay up-to-date <br>
 >in the cloud*.
 ### My favorite tools on my computer are Git Bash and VS Code
 ![](https://github.com/sabean365/picturesOfMeOrNot/blob/main/GitHub/tools.jpg)
-> Though I don't get to use Git Bash as much as I'd like.
+> Though I don't get to use Git Bash as much as I'd like.<br>
+> It's getting better.
 ### I’m interested in Edge Computing
 ![](https://github.com/sabean365/picturesOfMeOrNot/blob/main/GitHub/edge.jpg)
 > I believe it will save lives.
@@ -71,11 +71,10 @@
 ![Alt Text](https://tenor.com/view/shoulder-shrug-animation-girl-idk-i-dont-know-gif-17092814.gif)
 > If only I had the time... or could stop time... or had Hermione's watch.
 ### Other than computer/software engineering, <br>
-### I :heartbeat: music. I play the piano.
+### I :heartbeat: music. I play and teach piano.
 ![](https://github.com/sabean365/picturesOfMeOrNot/blob/main/GitHub/roland.jpg)
 > This is a picture of my new Roland FP-30X.
-### I *try* to find something to love in everyone, <br>
-#### but there's a special place in my heart for gL. <br>
+### I *try* to find something to love in everyone, but gL has my :heartbeat:. <br>
 #### *I hope I find him in another lifetime, and we get on BRILLIANTLY.*
 ![](https://github.com/sabean365/picturesOfMeOrNot/blob/main/GitHub/gL.jpg)
 >I sketched this picture of him.  <br>
@@ -83,10 +82,9 @@
 ### The farthest I've been away from the US was my trip to India. <br>
 #### I went to the Khardung La (now the *2nd* highest motorable road).
 ![](https://github.com/sabean365/picturesOfMeOrNot/blob/main/GitHub/khardungLa.jpg)
->That's me and Manju, my owl bobblehead traveling companion that I piecked up <br>
->in New Delhi. :heartbeat: I went with some people, too, but they... no bueno.
-### You can reach me through my website:
-[sarahbeancodes](https://sarahbeancodes.com/contact/ "sarahbeancodes")
+>That's me and Manju :heartbeat:, my owl bobblehead traveling companion that I picked up <br>
+>in New Delhi. I went with some people, too, but they... no bueno.
+### You can't reach me... sorry.
 <!---
 sabean365/sabean365 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
