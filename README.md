@@ -86,6 +86,7 @@
 >That's me and Manju :heartbeat:, my owl bobblehead traveling companion that I picked up <br>
 >in New Delhi. I went with some people, too, but they... no bueno.
 ### You can't reach me... sorry.
+### But you should definitely watch this: ![](https://youtu.be/NNPC2ub1DcI?si=1wwFG5APwv88aX6w)
 <!---
 sabean365/sabean365 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
