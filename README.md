@@ -52,7 +52,7 @@
 > ![](https://github.com/sabean365/picturesOfMeOrNot/blob/main/GitHub/results.jpg)
 > 
 
-### Right now, I'm an SRE, and I love my job!
+### Right now, I'm transitioning from an SRE to a DevOps Engineer, and I love learning new things!
 ![](https://github.com/sabean365/picturesOfMeOrNot/blob/main/GitHub/sepiatoned.jpg)
 >I create and manage resources in Azure; the scope of my work also includes budgets, <br>
 >diagrams, monitors, alerts, automation, and *continual learning to stay up-to-date <br>
