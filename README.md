@@ -84,7 +84,7 @@
 #### I went to the Khardung La (now the *2nd* highest motorable road).
 ![](https://github.com/sabean365/picturesOfMeOrNot/blob/main/GitHub/khardungLa.jpg)
 >That's me and Manju :heartbeat:, my owl bobblehead traveling companion that I picked up <br>
->in New Delhi. I went with some people, too, but they... no bueno.
+>in New Delhi. I went with some people, too, but their names/pictures are not here to protect the innocent.
 ### You can't reach me... sorry.
 ### But you should definitely watch this: ![](htttps://youtu.be/NNPC2ub1DcI?si=1wwFG5APwv88aX6w)
 <!---
