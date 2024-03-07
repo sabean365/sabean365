@@ -54,9 +54,7 @@
 
 ### Right now, I'm transitioning from an SRE to a DevOps Engineer, and I love learning new things!
 ![](https://github.com/sabean365/picturesOfMeOrNot/blob/main/GitHub/sepiatoned.jpg)
->I create and manage resources in Azure; the scope of my work also includes budgets, <br>
->diagrams, monitors, alerts, automation, and *continual learning to stay up-to-date <br>
->in the cloud*.
+>Including AWS, Ansible, Interactive Terraform, and many others.
 ### My favorite tools on my computer are Git Bash and VS Code
 ![](https://github.com/sabean365/picturesOfMeOrNot/blob/main/GitHub/tools.jpg)
 > Though I don't get to use Git Bash as much as I'd like.<br>
